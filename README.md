@@ -40,7 +40,11 @@ For business inquiries, partnerships, or support:
 
 ## Founder
 
-Founded and owned by **Jollibe Dablo** ([@JDabs](https://github.com/JDabs)).
+Founded and owned by **Jollibe Dablo** ([@jollibedablo](https://github.com/jollibedablo)).
+
+**Portfolio:** [jollibedablo.codes](https://jollibedablo.codes/)
+
+**Personal site:** [jollibedablo.codes](https://jollibedablo.codes/)
 
 ---
 
