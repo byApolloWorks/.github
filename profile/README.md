@@ -4,7 +4,7 @@
 
 **Digital products and application subscriptions, built from the ground up.**
 
-[Contact](mailto:byapolloworks@gmail.com) · [Repositories](https://github.com/orgs/byApolloWorks/repositories)
+[Contact](mailto:byapolloworks@gmail.com) · [Contact 2](mailto:inquiries@byapolloworks.com) · [Repositories](https://github.com/orgs/byApolloWorks/repositories)
 
 </div>
 
@@ -26,7 +26,7 @@ We design, build, and ship applications end to end: from the first line of code 
 
 ## Open Source
 
-This organization is our open-source home. You will find tools, utilities, and projects we maintain publicly. Contributions, issues, and ideas are welcome.
+This organization provide some free open source. You will find tools, utilities, and projects we maintain publicly. Contributions, issues, and ideas are welcome.
 
 1. Browse our [repositories](https://github.com/orgs/byApolloWorks/repositories).
 2. Open an issue to report a bug or suggest a feature.
@@ -37,14 +37,12 @@ This organization is our open-source home. You will find tools, utilities, and p
 For business inquiries, partnerships, or support:
 
 **Email:** [byapolloworks@gmail.com](mailto:byapolloworks@gmail.com)
+**Website:** [byapolloworks.com] ((https://www.byapolloworks.com)
+**Website 2:** [byapolloworks.vercel.app] (https://byapolloworks.vercel.app)
 
 ## Founder
 
-Founded and owned by **Jollibe Dablo** ([@jollibedablo](https://github.com/jollibedablo)).
-
-**Portfolio:** [jollibedablo.codes](https://jollibedablo.codes/)
-
-**Personal site:** [jollibedablo.codes](https://jollibedablo.codes/)
+Founded and owned by **Jollibe Dablo** ([@jollibedablo](https://github.com/jollibedablo)) ([@jdabsgotthesauce](https://github.com/jdabsgotthesauce))..
 
 ---
 
