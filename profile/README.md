@@ -1,48 +1,64 @@
-<div align="center">
+ <div align="center">
 
 # byApolloWorks
 
-**Digital products and application subscriptions, built from the ground up.**
+**Building software, applications, and digital experiences that make work better.**
 
-[Contact](mailto:byapolloworks@gmail.com) · [Contact 2](mailto:inquiries@byapolloworks.com) · [Repositories](https://github.com/orgs/byApolloWorks/repositories)
+[Business Inquiries](mailto:inquiries@byapolloworks.com) · [Email](mailto:byapolloworks@gmail.com) · [Website](https://www.byapolloworks.com) · [GitHub Repositories](https://github.com/orgs/byApolloWorks/repositories)
 
 </div>
 
 ---
 
-## About
+## About Us
 
-byApolloWorks is a digital products and application subscription business. It is the umbrella brand behind a growing portfolio of software products, and the home of our open-source work on GitHub.
+**byApolloWorks** is a software development and digital solutions company focused on building practical applications, tools, and services.
 
-We design, build, and ship applications end to end: from the first line of code to payments, subscriptions, and production deployment.
+We create software that helps individuals, businesses, and organizations simplify workflows, improve everyday processes, and bring ideas to life. Our work spans web and mobile applications, digital products, subscription-based services, and custom software solutions.
+
+From concept and development to deployment and ongoing improvements, we focus on creating reliable, accessible, and thoughtfully designed software experiences.
 
 ## What We Do
 
-- **Digital products:** Software and digital goods built for real-world use.
-- **Application subscriptions:** Apps delivered as subscription services, with billing and access handled out of the box.
-- **Payment integrations:** Payment gateway integrations that power checkout, recurring billing, and customer management.
-- **Ground-up app development:** Full-stack applications, from architecture and design through to launch and maintenance.
-- **Open source:** Tools and libraries we build and share with the community.
+- **Software Development:** Designing and developing web applications, mobile applications, APIs, and backend systems tailored to different needs.
+- **Digital Products & Services:** Creating software products, productivity tools, and digital solutions designed to deliver practical value.
+- **Application Subscriptions:** Offering software through subscription-based services, with integrated billing, payment processing, and access management.
+- **Business Solutions & Automation:** Developing systems that streamline operations, reduce repetitive tasks, and improve business workflows.
+- **Payment Integration:** Implementing secure payment solutions, checkout experiences, and recurring billing systems.
+- **Open-Source Development:** Building and maintaining tools, libraries, and projects that contribute to the developer community.
 
 ## Open Source
 
-This organization provide some free open source. You will find tools, utilities, and projects we maintain publicly. Contributions, issues, and ideas are welcome.
+We believe software development is better when knowledge and tools are shared.
 
-1. Browse our [repositories](https://github.com/orgs/byApolloWorks/repositories).
-2. Open an issue to report a bug or suggest a feature.
-3. Fork, branch, and send a pull request.
+Our GitHub organization features open-source projects, utilities, and developer resources built and maintained by byApolloWorks. We welcome developers, contributors, and anyone interested in improving the projects we share.
 
-## Get in Touch
+**How to Get Involved**
 
-For business inquiries, partnerships, or support:
+1. Explore our [GitHub repositories](https://github.com/orgs/byApolloWorks/repositories).
+2. Report bugs, suggest improvements, or share ideas through GitHub Issues.
+3. Fork a project, contribute changes, and submit a Pull Request.
 
-**Email:** [byapolloworks@gmail.com](mailto:byapolloworks@gmail.com)
-**Website:** [byapolloworks.com] ((https://www.byapolloworks.com)
-**Website 2:** [byapolloworks.vercel.app] (https://byapolloworks.vercel.app)
+## Work With Us
+
+Have an idea, need a software solution, or looking for a development partner?
+
+We're open to business inquiries, project collaborations, partnerships, and opportunities to build meaningful software together.
+
+**Business Inquiries:** [inquiries@byapolloworks.com](mailto:inquiries@byapolloworks.com)
+
+**General Email:** [byapolloworks@gmail.com](mailto:byapolloworks@gmail.com)
+
+**Website:** [byapolloworks.com](https://www.byapolloworks.com)
+
+**Alternative Website:** [byapolloworks.vercel.app](https://byapolloworks.vercel.app)
 
 ## Founder
 
-Founded and owned by **Jollibe Dablo** ([@jollibedablo](https://github.com/jollibedablo)) ([@jdabsgotthesauce](https://github.com/jdabsgotthesauce))..
+Founded and led by **Jollibe Dablo**.
+
+- GitHub: [@jollibedablo](https://github.com/jollibedablo)
+- GitHub: [@jdabsgotthesauce](https://github.com/jdabsgotthesauce)
 
 ---
 
